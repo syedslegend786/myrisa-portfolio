@@ -14,7 +14,7 @@ export function Hero() {
           <div className="h-max relative w-max">
             <div className="absolute bg-brand-yellow-500 h-8 left-0 right-5 bottom-0" />
             <p className="relative text-7xl font-poynter font-bold leading-[1.1]">
-              Let’s grow your
+              {`Let’s grow your`}
               <br />
               business from
               <br />
@@ -37,7 +37,7 @@ export function Hero() {
             <div className="h-max relative w-max">
               <div className="absolute bg-brand-yellow-500 h-5 left-0 right-5 bottom-0" />
               <p className="relative text-4xl font-poynter font-extrabold leading-[1.3]">
-                Let’s grow your
+                {`Let’s grow your`}
                 <br />
                 business from
                 <br />

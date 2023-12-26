@@ -58,7 +58,7 @@ export function Introduction() {
               hey there!
             </h1>
             <h1 className="font-poynter lg:text-5xl text-[28px] font-bold text-center text-brand-black-500">
-              I’m Melyssa Griffin
+              {1}
             </h1>
             <div className="bg-brand-black-500 h-[1px] opacity-50 my-7 w-28 mx-auto" />
             <p className="leading-[1.6] lg:text-[32px] text-[24px] font-semibold font-poynter text-center  mx-auto tracking-wide">
@@ -68,11 +68,11 @@ export function Introduction() {
               small.
             </p>
             <p className="font-sentinel text-base text-center mx-auto leading-[1.5] mt-7">
-              Around these parts, I share my best business secrets, as well as
+              {`Around these parts, I share my best business secrets, as well as
               help you cultivate a life of true freedom, purpose, and fun. I’m
               also big on bear hugs, anything unconventional and creative, and
               teaching people like you how to live an abundant and limitless
-              life. Let’s get weird.
+              life. Let’s get weird.`}
             </p>
             <Button className="mx-auto mt-7 bg-brand-yellow-500">
               READ THE WHOLE STORY
@@ -81,7 +81,7 @@ export function Introduction() {
         </div>
         <div className="lg:mt-40 mt-20  flex items-center md:gap-20 flex-col lg:flex-row relative z-[2]">
           <h1 className="font-cervo text-xl whitespace-nowrap">
-            I’VE BEEN <br className="lg:inline-block hidden" /> FEATURED IN...
+            {`I’VE BEEN`} <br className="lg:inline-block hidden" /> FEATURED IN...
           </h1>
           <div>
             <img

@@ -35,9 +35,9 @@ export default function TheBlog() {
         <p className="text-center font-sentinel text-[17px] leading-[1.7] text-brand-black-500 ">
           Where it all began! Hundreds of in-depth articles designed to help you{" "}
           <br />
-          re-program your limiting beliefs and create a booming, digital
+          {`re-program your limiting beliefs and create a booming, digital
           business. <br /> Guaranteed to make you scream: "I can't believe this
-          stuff is free!!"
+          stuff is free!!"`}
         </p>
         <div className="grid lg:grid-cols-5 grid-cols-2 gap-10">
           {data.map((item, index) => (

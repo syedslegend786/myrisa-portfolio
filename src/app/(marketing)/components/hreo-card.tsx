@@ -19,10 +19,10 @@ export function HeroCard() {
       </div>
       <div className="bg-brand-black-500 h-[1px] opacity-50 my-5" />
       <p className="font-sentinel text-[18px] leading-[1.6]">
-        What’s stopping you from making more money, reaching your goals, and
+        {`What’s stopping you from making more money, reaching your goals, and
         bringing your big dreams to life? It’s probably your relationship with
         money. Answer a few key questions and you’ll get instant access to a
-        customized path to step into more abundance and ease.
+        customized path to step into more abundance and ease.`}
       </p>
       <Button className="mt-5 w-max">
         CLICK HERE TO TAKE QUIZ

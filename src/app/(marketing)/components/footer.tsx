@@ -85,15 +85,15 @@ export function Footer() {
         <div className="border-[18px]  border-brand-white-500 lg:w-[240px] lg:aspect-auto aspect-square lg:h-[260px] bg-cover bg-no-repeat bg-center bg-[url('https://static.showit.co/file/c7gXYDRAQSSwLqVbg3IwbQ/107331/ezgif_com-gif-maker_1.gif')]"></div>
         <div className="flex-1 lg:text-start text-center">
           <h1 className="lg:text-[40px] text-[32px] font-bold leading-[1.1] text-brand-black-500 font-poynter">
-            Hey! I’m Melyssa.
+            {`Hey! I’m Melyssa.`}
           </h1>
           <div className="bg-brand-black-500 h-[1px] my-6" />
           <h1 className="leading-[1.6] text-[18px] font-sentinel ">
-            I’m a former school teacher turned entrepreneur who believes that
+            {`I’m a former school teacher turned entrepreneur who believes that
             the best way to grow a thriving business is to heal the leader
             behind the scenes (that’s you!). Together, we’ll reprogram the
             limiting beliefs and patterns that are keeping you stuck so that you
-            can create unapologetic success and abundance.
+            can create unapologetic success and abundance.`}
           </h1>
         </div>
         <div className="flex gap-10">

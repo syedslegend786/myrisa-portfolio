@@ -14,16 +14,16 @@ export function HelpUs() {
             Change
           </h1>
           <p className="text-brand-black-500 text-[18px] font-sentinel text-center">
-            To us, “giving back” should be part of every entrepreneur’s job
-            description.
-            <br className="hidden lg:inline" /> We give a portion of our sales
-            to charitable organizations and love hosting{" "}
-            <br className="hidden lg:inline" /> fundraisers for our favorite
-            philanthropies. To date, we’ve raised and{" "}
-            <br className="hidden lg:inline" /> donated almost $200,000 to
-            organizations we care about.
+            {`To us, “giving back” should be part of every entrepreneur’s job
+            description.`}
+            <br className="hidden lg:inline" /> {`We give a portion of our sales
+            to charitable organizations and love hosting`}{" "}
+            <br className="hidden lg:inline" /> {`fundraisers for our favorite
+            philanthropies. To date, we’ve raised and`}{" "}
+          <br className="hidden lg:inline" /> {`donated almost $200,000 to
+          organizations we care about.`}
           </p>
-          <Button className="mx-auto">THE PROJECTS WE'VE SUPPORTED</Button>
+          <Button className="mx-auto">{`THE PROJECTS WE'VE SUPPORTED`}</Button>
         </div>
       </div>
       <video

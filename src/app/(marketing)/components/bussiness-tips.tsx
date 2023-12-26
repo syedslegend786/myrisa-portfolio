@@ -22,10 +22,10 @@ export function BusinessTips() {
 
           <div className="mt-20">
             <p className="font-sentinel text-[17px] leading-[1.7]">
-              If you have paying clients who love what you have to offer, an
+              {`If you have paying clients who love what you have to offer, an
               exhaustive list of tasks to complete each day, and the desire to
               have someone support you in your business – then it’s probably
-              time to hire your first Virtual
+              time to hire your first Virtual`}
             </p>
             <Button className="bg-transparent">READ THE POST</Button>
           </div>
