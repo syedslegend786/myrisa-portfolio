@@ -58,7 +58,7 @@ export function Introduction() {
               hey there!
             </h1>
             <h1 className="font-poynter lg:text-5xl text-[28px] font-bold text-center text-brand-black-500">
-              {1}
+              {`I’m Melyssa Griffin`}
             </h1>
             <div className="bg-brand-black-500 h-[1px] opacity-50 my-7 w-28 mx-auto" />
             <p className="leading-[1.6] lg:text-[32px] text-[24px] font-semibold font-poynter text-center  mx-auto tracking-wide">
